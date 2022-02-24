@@ -1,4 +1,4 @@
-.welcome{
+.wrapper{
     text-align: center;
     border-style: solid;
     border-color: purple;
@@ -8,14 +8,20 @@
 img{
     border-radius: 100px;
 }
-
+/* 
 .aboutMe{
     text-align: center;
     border-style: solid;
     border-color: purple;
     background-color: blueviolet;
-}
+} */
 
 body{
-    background: blueviolet;
+    padding: 2.5em 0 0.5em;
+    margin: 0 0 2.0em;
+    background: #39150c url(./assets/e9c63e38-e11c-4bdc-a84b-67963fecaafe.png) center 0px;
+}
+
+nav{
+    border: solid black 2px;
 }
